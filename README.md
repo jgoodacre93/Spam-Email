@@ -15,7 +15,7 @@ No seré responsable de ningún mal uso._
 
 4 `git clone https://github.com/Shadow-Captain/Spam-Email`
 
-5 `cd SpamEmail`
+5 `cd Spam-Email`
 
 6 `python3 SpamEmail.py`
 ```
