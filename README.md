@@ -8,11 +8,16 @@ No seré responsable de ningún mal uso._
 # INSTALACION
 ```
 
-`pkg up -y`
-`pkg install git python3 bash curl -y`
-`pip3 install requests`
-`git clone https://github.com/Shadow-Captain/SpamEmail`
-`cd SpamEmail`
-`python3 SpamEmail.py`
+1 `pkg up -y`
+
+2 `pkg install git python3 bash curl -y`
+
+3 `pip3 install requests`
+
+4 `git clone https://github.com/Shadow-Captain/SpamEmail`
+
+5 `cd SpamEmail`
+
+6 `python3 SpamEmail.py`
 
 ```
