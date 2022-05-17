@@ -1,4 +1,5 @@
-# Spam Email
+# Spam Email 2.0 
+_Correccion de errores_
 Este es un bombardero de correo electrónico a diferencia de otros bombarderos de correo electrónico, no necesita su identificación de correo electrónico para usar esto.
 
 # DESCARGO DE RESPONSABILIDAD
@@ -17,5 +18,5 @@ No seré responsable de ningún mal uso._
 
 5 `cd Spam-Email`
 
-6 `python3 SpamEmail.py`
+6 `python3 SpamEmail2.0.py`
 ```
